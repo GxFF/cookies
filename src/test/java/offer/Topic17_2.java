@@ -1,4 +1,4 @@
-package com.guo.interview.offer;
+package offer;
 
 import org.junit.Assert;
 import org.junit.Test;

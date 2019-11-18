@@ -1,4 +1,4 @@
-package com.guo.interview.offer.common;
+package common;
 
 import java.util.Objects;
 

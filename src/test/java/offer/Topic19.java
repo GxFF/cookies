@@ -1,7 +1,7 @@
-package com.guo.interview.offer;
+package offer;
 
 import com.google.common.base.Strings;
-import com.guo.interview.offer.common.Node;
+import common.Node;
 import org.junit.Assert;
 import org.junit.Test;
 

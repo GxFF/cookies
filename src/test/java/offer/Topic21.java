@@ -1,4 +1,4 @@
-package com.guo.interview.offer;
+package offer;
 
 import com.google.common.collect.Collections2;
 import org.junit.Test;

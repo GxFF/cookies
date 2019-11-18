@@ -1,6 +1,6 @@
-package com.guo.interview.offer;
+package offer;
 
-import com.guo.interview.offer.common.TNode;
+import common.TNode;
 import org.junit.Test;
 
 import java.util.Arrays;

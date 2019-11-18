@@ -1,7 +1,7 @@
-package com.guo.interview.offer;
+package offer;
 
-import com.guo.interview.offer.common.LinkUtil;
-import com.guo.interview.offer.common.Node;
+import common.LinkUtil;
+import common.Node;
 import org.junit.Assert;
 import org.junit.Test;
 

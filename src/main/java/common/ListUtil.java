@@ -32,6 +32,10 @@ public class ListUtil {
         }
     }
 
+    public static boolean equals(ListHolder holder1, ListHolder holder2) {
+        return equals(holder1.getHead(), holder2.getHead());
+    }
+
     public static boolean equals(ListNode list1, ListNode list2) {
         while (Objects.equals(list1, list2)) {
             if (list1 == null) {
